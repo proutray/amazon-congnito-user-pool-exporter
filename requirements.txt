@@ -2,3 +2,4 @@ boto3
 boto
 botocore
 argparse
+pyyaml
